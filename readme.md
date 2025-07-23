@@ -147,4 +147,5 @@ Following is the raw architecture of project.
 ![img](./img/mobile_page_output.png)
 
 
-* ### Deployed!
+* ### Summary
+An extended webserver with Auto Scaling Group (ASG) automatically adjusts the number of EC2 instances based on traffic load. It ensures high availability, better performance, and cost efficiency. ASG works with a Load Balancer to distribute traffic evenly. This setup helps maintain uptime and handle sudden spikes in user requests.
